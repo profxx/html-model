@@ -1,2 +1,2 @@
-# html-model
+# HTML-model
 The model for HTML with bootstrap - This is how you started
